@@ -1,0 +1,68 @@
+
+  .one-button{
+    background-color:green;
+    color:white;
+    border:none;
+    padding-top:10px;
+    padding-bottom:10px;
+    padding-left:16px;
+    padding-right:16px;
+    font-weight:bold;
+    font-size:15px;
+    cursor:pointer;
+    margin-right:18px;
+    margin-left:18px;
+    transition:padding 0.15s,
+              margin 0.15s;
+  }
+  .one-button:hover{
+    padding-right:35px;
+    padding-left:35px;
+    margin-left:0px;
+    margin-right:0px;
+  }
+  .two-button{
+    background-color:green;
+    color:white;
+    border:none;
+    padding-top:10px;
+    padding-bottom:10px;
+    padding-left:16px;
+    padding-right:16px;
+    font-weight:bold;
+    font-size:15px;
+    cursor:pointer;
+    margin-right:18px;
+    margin-left:18px;
+    transition:padding 0.15s,
+               margin 0.15s;
+  }
+  .two-button:hover{
+    padding-right:35px;
+    padding-left:35px; 
+    margin-left:0px;
+    margin-right:0px;
+
+  }
+  .three-button{
+    background-color:green;
+    color:white;
+    border:none;
+    padding-top:10px;
+    padding-bottom:10px;
+    padding-left:16px;
+    padding-right:16px;
+    font-weight:bold;
+    font-size:15px;
+    cursor:pointer;
+    margin-right:18px;
+    margin-left:18px;
+    transition:padding 0.15s,
+               margin 0.15s;
+  }
+  .three-button:hover{
+    padding-right:35px;
+    padding-left:35px;  
+    margin-left:0px;
+    margin-right:0px;
+  }

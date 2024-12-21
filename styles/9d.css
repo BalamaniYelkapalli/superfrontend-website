@@ -1,0 +1,24 @@
+p{
+  margin-top:0;
+  margin-bottom:0;
+}
+.music{
+  width:330px;
+  background-color:rgb(32, 30, 30);
+  padding-top:2px;
+  padding-left:8px;
+  padding-bottom:2px;
+  padding-right:8px;
+}
+.installation{
+  color:white;
+  font-size:18px;
+  font-family:Arial;
+  font-weight:bold;
+  margin-bottom:10px;
+}
+.adding-music{
+  color:rgb(90,90,90);
+  font-family:Arial;
+  font-size:12px;
+}

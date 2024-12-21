@@ -1,0 +1,33 @@
+div{
+  font-family:Arial;
+}
+.container{
+  border-style:solid;
+  border-width:1px;
+  border-color:rgb(200,200,200);
+  border-radius:6px;
+  width:300px;
+}
+.flexbox{
+  display:flex;
+  flex-direction:row;
+  justify-content:space-between;
+  padding-top:10px;
+  padding-bottom:10px;
+  padding-left:16px;
+  padding-right:16px;
+  align-items:center;
+}
+.home,
+.notity,
+.messages{
+  background-color:rgb(77, 77, 240);
+  color:white;
+  padding-top:4px;
+  padding-bottom:4px;
+  padding-left:8px;
+  padding-right:8px;
+  border-radius:14px;
+  font-size:14px;
+  font-weight:bold;
+}

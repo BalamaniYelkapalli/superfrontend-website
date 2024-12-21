@@ -1,0 +1,33 @@
+p{
+  font-size:35px;
+  margin-bottom:10px;
+  font-family:Arial;
+}
+input{
+  display:block;
+  margin-bottom:10px;
+  padding-top:10px;
+  padding-bottom:10px;
+  padding-left:16px;
+  padding-right:16px;
+  width:300px;
+  border:none;
+  background-color:rgb(240,240,240);
+}
+.request-now-button{
+  background-color:black;
+  color:white;
+  border:none;
+  padding-top:10px;
+  padding-bottom:10px;
+  padding-left:16px;
+  padding-right:16px;
+}
+.schedule-later-button{
+  border:none;
+  padding-top:10px;
+  padding-bottom:10px;
+  padding-left:16px;
+  padding-right:16px;
+  background-color:rgb(240,240,240);
+}

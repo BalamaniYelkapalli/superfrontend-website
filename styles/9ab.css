@@ -1,0 +1,14 @@
+.div-red{
+  background-color:red;
+  width:200px;
+  height:200px;
+  display:inline-block;
+  margin-right:15px;
+}
+.green-circle{
+  background-color:green;
+  border-radius:100px;
+  width:200px;
+  height:200px;
+  display:inline-block;
+}
