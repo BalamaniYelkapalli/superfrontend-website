@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>
+      8abcd
+    </title>
+  </head>
+  <body>
+    <script>
+      /*let product ={
+        name: 'basketball',
+        price:2095,
+      }
+      console.log(product);
+      console.log(product.price+500);
+     product.price +=500;
+     console.log(product);
+     product['delivery-time']='3 days';
+     console.log(product);
+     */
+
+     
+
+     function comparePrice(product1,product2){
+      if(product1.price < product2.price){
+        return product1;
+      }else {
+        return product2;
+      }
+     }
+
+     let product1 = {
+      name:'shirt',
+      price:400
+     };
+
+     let product2= {
+      name:'shoe',
+      price: 300
+     };
+    console.log(comparePrice(product1,product2));
+    </script>
+  </body>
+</html>
